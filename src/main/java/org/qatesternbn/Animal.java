@@ -9,5 +9,11 @@ public class Animal {
     double happinessLevel;
     String favoriteActivityName;
     String favoriteFoodName;
+    String hairColor;
+    double kilogram;
+    String Waist;
+    double AverageLifeExpectancy;
+
+
 
 }

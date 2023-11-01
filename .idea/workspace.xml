@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dae6fe20-016a-4ca2-a69e-6dc723cfdf98" name="Changes" comment="Create Animal.java!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/Animal.java" afterDir="false" />
+    <list default="true" id="dae6fe20-016a-4ca2-a69e-6dc723cfdf98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/EntertainmentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/MedicalStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/Rescuer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/qatesternbn/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/qatesternbn/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/qatesternbn/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +27,47 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SimonSebastianA"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="21f4cdc6-2d43-4d22-b7cb-f938e28b3ca1" />
+        <option name="url" value="https://github.com/SimonSebastianA/My-First-Project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2XZs8RYyzyCUbstn3DZgNAvCl8p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="My First Game" />
@@ -61,10 +92,39 @@
       <option name="presentableId" value="Default" />
       <updated>1698847779431</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create Animal.java!">
+      <option name="closed" value="true" />
+      <created>1698848444693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698848444693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <option name="closed" value="true" />
+      <created>1698848697030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698848697030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Animal.java!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Animal.java!" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
