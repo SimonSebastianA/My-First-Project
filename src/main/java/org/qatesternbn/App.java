@@ -56,6 +56,7 @@ public class App
         animal2.favoriteActivityName = "Play with toys";
         animal2.favoriteFoodName = "Chicken Breast";
 
+
         EntertainmentActivity activity2 = new EntertainmentActivity();
         activity2.name = "Play with toys";
 
@@ -75,7 +76,6 @@ public class App
         medic1.specialization ="General Medicine";
         medic1.sex = "Women";
         medic1.age = 33;
-        medic1.experience = 8;
         medic1.Nationality = "Romanian";
 
         MedicalStaff medic2 = new MedicalStaff();
@@ -84,7 +84,7 @@ public class App
         medic2.sex = "Man";
         medic2.Nationality = "Romanien";
         medic2.age = 29;
-        medic2.experience = 3;
+
 
         Game game = new Game();
         game.rescuer = rescuer1;
