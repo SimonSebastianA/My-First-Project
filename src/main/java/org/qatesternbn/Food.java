@@ -13,5 +13,10 @@ public class Food {
    double weight;
    String typeOfMeat;
 
+   public Food(String name) {
+
+       this.name = name;
+
+   }
 
 }

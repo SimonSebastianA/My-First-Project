@@ -30,10 +30,10 @@ public class App
         animal1.favoriteActivityName = "Running";
         animal1.favoriteFoodName = "Pasta";
 
-        EntertainmentActivity activity1 = new EntertainmentActivity();
+        EntertainmentActivity activity1 = new EntertainmentActivity("Running");
         activity1.name = "Running";
 
-        Food food1 = new Food();
+        Food food1 = new Food("Pasta");
         food1.name = "Pasta";
         food1.price = 25.99;
         food1.inStock = true;
@@ -57,10 +57,10 @@ public class App
         animal2.favoriteFoodName = "Chicken Breast";
 
 
-        EntertainmentActivity activity2 = new EntertainmentActivity();
+        EntertainmentActivity activity2 = new EntertainmentActivity("Play with toys");
         activity2.name = "Play with toys";
 
-        Food food2 = new Food();
+        Food food2 = new Food("Chicken Breast");
         food2.name = "Chicken Breast";
         food2.price = 32.99;
         food2.inStock = true;
